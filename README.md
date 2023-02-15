@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am an engineer who is highly passionate about programming.
+Ruby and Rails developer with 2+ years of background in it.
+Total 4+ years experience in programming, including Javascript, and Python.
+
+🔭 I’m currently looking for a new job opprotunity in the Gulf countries
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tagir-akhmadeev-3723bb168/) profile
+
 <!--
 **tagirahmad/tagirahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
